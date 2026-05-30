@@ -1,0 +1,9 @@
+# NetGuard IDS - Gereksinimler
+# Python 3.10, 3.11, 3.12, 3.13, 3.14 ile uyumlu
+# Derleme aracı (GCC, MSVC, Meson) GEREKTIRMEZ
+
+streamlit>=1.35.0
+pandas>=2.2.2
+plotly>=5.22.0
+numpy>=2.0.0
+reportlab>=4.2.0

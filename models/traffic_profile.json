@@ -1,0 +1,9 @@
+{
+  "src_port_mean": 49147.1025,
+  "src_port_std": 9501.143093806979,
+  "dst_port_mean": 1502.1515,
+  "dst_port_std": 2664.6324506162223,
+  "size_mean": 753.8365,
+  "size_std": 401.8152231702782,
+  "z_threshold": 2.5
+}
